@@ -13,4 +13,4 @@
     - Running multiple iterations of Logistics, Ridge, Lasso, Random Forest, KNN models, which includes hyperparameter tuning, adjustments of the training/test set ratio and adjustments of features
     - Creating visualizations of the data to tell the story of how our best model performed
    
-- Link to the Project Files: [Project Files](https://github.com/meierd1809/DSC-450-Applied-Data-Science/tree/main/Projects/Project%202)
+- Link to the Project Files: [Project Files](https://github.com/meierd1809/Predicting-Data-Science-Salaries/tree/main/Project%20Files)
